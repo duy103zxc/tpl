@@ -13,7 +13,8 @@ Một số lưu ý về cách dùng từ trong bản dịch cho việc đọc c�
 
 - Porn: Nói chung cho các nội dung khiêu dâm: Sách, tranh ảnh, phim .v.v...
 - PMO: Là viết tắt của Pornography (Nội dung khiêu dâm) - Masturbate (Thủ dâm) - Orgasm (Xuất tinh hoặc lên đỉnh). Khi mình nói PMOer thì ý chỉ những người nghiện bộ ba này.
-- "Người nghiện": Bản gốc bằng Tiếng Anh dùng từ "porn user" hay dịch nôm na là "người nghiện nội dung khiêu dâm" hoặc "người nghiện porn" nhưng mình không biết có nên để là "người nghiện" vậy không.
+- User - ex-user - non-user: Bản gốc của sách, nghĩa tương ứng là người xem, người đã từng xem - người không xem (Mình sẽ để là "nghiện" thay vì là xem ở trong bản dịch) 
+- "Người nghiện": Bản gốc bằng Tiếng Anh dùng từ "porn user" hay dịch nôm na là "người dùng nội dung khiêu dâm" hoặc "người dùng porn" nhưng mình không biết có nên để là "người nghiện" vậy không.
 - ex-users: Những người đã từng nghiện
 - online harem: Các trang web lưu porn tốc độ và chất lượng cao (Chất lượng thấp cũng tính luôn).
 
