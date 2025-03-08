@@ -1,22 +1,24 @@
 # Tài liệu tham khảo
 
-[Meditations of a Porn Addict](resources/meditations.pdf) - Guillaco (Thiền định cho người nghiện porn)
+(Các tài nguyên được liệt kê dưới đây sử dụng Tiếng Anh)
 
-[EasyPeasy Statements Checklist](https://old.reddit.com/r/pmohackbook/comments/id6nie/easypeasy_statements_checklist/) - SWATxKATS (Danh sách kiểm tra các khẳng định EasyPeasy)
+[Meditations of a Porn Addict](https://easypeasymethod.org/resources/meditations.pdf) - Guillaco
 
-[9 Minute Meditation](https://www.youtube.com/watch?v=tw7XBKhZJh4) - Sam Harris (Bài thiền 9 phút)
+[EasyPeasy Statements Checklist](https://old.reddit.com/r/pmohackbook/comments/id6nie/easypeasy_statements_checklist/) - SWATxKATS
 
-[Waking Up Meditation Course](https://wakingup.com) - Sam Harris (Khóa học thiền "Tỉnh thức")
+[9 Minute Meditation](https://www.youtube.com/watch?v=tw7XBKhZJh4) - Sam Harris
 
-[Exiting Modernity](https://jdemeta.net/2019/09/15/exiting-modernity/) - Meta Nomad // ([pdf](https://jdemeta.net/wp-content/uploads/2019/09/Exiting-Modernity.pdf)) (Thoát khỏi sự hiện đại)
+[Waking Up Meditation Course](https://wakingup.com) - Sam Harris
 
-[Letter I'm sending to schools](resources/principal.pdf) (Thư tôi gửi đến các trường học)
+[Exiting Modernity](https://jdemeta.net/2019/09/15/exiting-modernity/) - Meta Nomad // ([pdf](https://jdemeta.net/wp-content/uploads/2019/09/Exiting-Modernity.pdf))
 
-[Freedom Forever (PMO Hacknotes)](https://sites.google.com/view/freeforever/home) (Tự do vĩnh viễn - Ghi chú hack PMO)
+[Letter I'm sending to schools](https://easypeasymethod.org/resources/principal.pdf)
 
-[Why you're relapsing - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/mynwjl/why_youre_relapsing/) (Vì sao bạn tái nghiện)
+[Freedom Forever (PMO Hacknotes)](https://sites.google.com/view/freeforever/home)
 
-[Countering Fear - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/) (Đối phó với nỗi sợ)
+[Why you're relapsing - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/mynwjl/why_youre_relapsing/)
+
+[Countering Fear - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/)
 
 ## Các câu đối phó REBT
 
