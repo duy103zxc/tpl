@@ -6,13 +6,28 @@ Hiện tại (08/03/2025) bản dịch đã được sửa xong (Giai đoạn 1)
 
 **Lưu ý:** Một phần không nhỏ bản nền tảng cho các bản dịch của sách được tạo bởi AI (Gemini) và sau đó được mình tinh chỉnh thêm trước khi phát hành. Mình sẽ tiếp tục cải thiện để đảm bảo người đọc có được trải nghiệm tối ưu nhất.
 
-### Trước khi đọc
-Một số lưu ý về cách dùng từ trong bản dịch cho việc đọc của bạn trở nên dễ dàng hơn
+### Thông tin thêm
 
-- Porn: Nói chung cho các nội dung khiêu dâm: Sách, tranh ảnh, phim .v.v...
-- PMO: Là viết tắt của porn (Nội dung khiêu dâm) - Masturbate (Thủ dâm) - Orgasm (Xuất tinh hoặc lên đỉnh). Khi mình nói PMOer thì ý chỉ những người nghiện bộ ba này.
-- User - ex-user - non-user: Bản gốc của sách, nghĩa tương ứng là người xem, người đã từng xem - người không xem (Mình sẽ để là "nghiện" thay vì là xem ở trong bản dịch) 
-- "Người nghiện": Bản gốc bằng Tiếng Anh dùng từ "porn user" hay dịch nôm na là "người dùng nội dung khiêu dâm" hoặc "người dùng porn" nhưng mình không biết có nên để là "người nghiện" vậy không.
-- online harem: Các trang web lưu porn tốc độ cao và chất lượng cao (Chất lượng thấp cũng tính luôn).
+Một số "thuật ngữ" cho bản dịch đây (Bạn không cần đọc hết cũng được, nếu trong bản dịch có từ được giữ nguyên Tiếng Anh thì ghé qua đây thôi):
+
+- **PMO (Porn, Masturbation, Orgasm):** PMO (giữ nguyên gốc, Porn, Thủ dâm, Cực khoái / Porn, Tự sướng, Lên đỉnh)
+- **PMOer:** Người "thực hành" PMO.
+- **Porn:** Porn, Phim khiêu dâm trên mạng, Nội dung khiêu dâm
+- **Porn "diet":** Chế độ "kiêng" porn (Kiểu vài ngày xem porn một lần)
+- **Fantasy:** Mộng tưởng, Ảo mộng
+- **Guru:** Guru (giữ nguyên gốc, hiểu là chuyên gia, người có kiến thức uyên bác)
+- **Jerk (jerk off):** Kẻ đần độn (nhưng "jerk off": thủ dâm, mang tính xúc phạm)
+- **Non-user:** Người không dùng (Ở đây ám chỉ những người không xem porn)
+- **online harem**: Các trang web lưu porn tốc độ cao và chất lượng cao (Chất lượng thấp cũng tính luôn).
+- **PE (Premature Ejaculation):** Xuất tinh sớm
+- **PIED (Porn-Induced Erectile Dysfunction):** Rối loạn cương dương do porn gây ra
+- **Porn session:** Lần xem porn
+- **Propagative (sex):** (Tình dục) về mặt sinh sản
+- **Search-and-seek dopamine:** Dopamine "tìm kiếm-và-theo đuổi"
+- **Semen retention:** Giữ tinh dịch
+- **Sexual dysfunction:** Rối loạn chức năng tình dục
+- **Static porn:** Porn tĩnh (ảnh tĩnh)
+- **Tantric (sex):** (Tình dục) tantric
+- **Edging:** Cố tình kéo dài khoái cảm trước khi lên đỉnh.
 
 Mình cũng đã viết lại khá nhiều ví dụ cộng với một số cách ví von, đồng thời xóa các câu mà mình cảm thấy không ảnh hưởng đến nội dung của sách và mình không thể tìm được cách dịch sao cho hay bằng Tiếng Việt. Mình sẵn sàng nhận góp ý từ tất cả mọi người nha.
