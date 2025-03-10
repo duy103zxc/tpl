@@ -1,14 +1,18 @@
-# Easyway cho nội dung khiêu dâm
+# Thoát Porn luận
+Bản dịch Tiếng Việt cho sách [The EasyPeasy to quit Pornography](https://read.easypeasymethod.org/). Bạn có thể đọc sách trực tiếp trên trang này, hoặc tải các định dạng điện tử của sách HOÀN TOÀN MIỄN PHÍ (Sách này hoàn toàn miễn phí nha).
 
-Bản dịch Tiếng Việt cho sách [EasyPeasy](https://read.easypeasymethod.org/).
+### Một số lưu ý
+Bản dịch được hoàn thiện với sự hỗ trợ của AI và đã được cải thiện 2 lần bởi mình để đảm bảo trải nghiệm của người đọc. Mọi ý kiến hay góp ý cho bản dịch vui lòng mở Issue trong dự án Github này.
 
-Bàn dịch này được dịch dựa trên bản dịch của camus (camus#8069 trên Discord) vào ngày 16/09/2021 và được hiệu đính lại bởi duykhanh471 (Chính là mình!).
+### Tạo tệp EPUB
+Bạn cần cài đặt Python và phần mềm dòng lệnh [AlexPof/mark2epub](https://github.com/AlexPof/mark2epub). Sau đó chạy lệnh tại thư mục của dự án:
 
-Bạn có thể đọc sách trực tiếp trên trang này, hoặc tải các định dạng điện tử của sách HOÀN TOÀN MIỄN PHÍ (Sách này hoàn toàn miễn phí nha).
+```bash
+python3 mark2epub.py docs/ thoat-porn-luan.epub
+```
+Sẽ tạo ra tệp `thoat-porn-luan.epub`
 
-Hiện tại bản dịch vẫn chưa được sửa xong nhưng bạn có thể đọc trước nha.
-
-## Mục lục
+### Đọc thử bản dịch trên Github
 
 - [Chương 1: Lời mở đầu](docs/ch01.md)
 - [Chương 2: Phương pháp dễ dàng](docs/ch02.md)
