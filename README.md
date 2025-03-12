@@ -4,13 +4,23 @@ Bản dịch Tiếng Việt cho sách [The EasyPeasy to quit Pornography](https:
 ### Một số lưu ý
 Bản dịch được hoàn thiện với sự hỗ trợ của AI và đã được cải thiện 2 lần bởi mình để đảm bảo trải nghiệm của người đọc. Mọi ý kiến hay góp ý cho bản dịch vui lòng mở Issue trong dự án Github này.
 
-### Tạo tệp EPUB
-Bạn cần cài đặt Python và phần mềm dòng lệnh [AlexPof/mark2epub](https://github.com/AlexPof/mark2epub). Sau đó chạy lệnh tại thư mục của dự án:
+### Tạo tệp EPUB & MOBI
+Bạn không cần tự tạo mà mình đã tạo sẵn rồi và bạn có thể tải trên [trang đọc sách trực tuyến của cuốn sách này](https://duy103zxc.github.io/easypeasymethod-vi/#cac-inh-dang-khac) luôn
+
+Nếu bạn muốn tự tạo thì bạn cần cài đặt:
+
+- Python và phần mềm dòng lệnh [AlexPof/mark2epub](https://github.com/AlexPof/mark2epub).
+- `kindlegen` (Không khuyến khích dùng cái này vì tệp MOBI sẽ nặng hơn gấp 2-3 lần, bạn nên dùng Calibre để chuyển đổi)
+
+Sau đó chạy `./build-ebooks.sh` hoặc những lệnh dưới đây tại thư mục của dự án:
 
 ```bash
+# Tạo tệp .epub
 python3 mark2epub.py docs/ thoat-porn-luan.epub
+# Tạo tệp .mobi
+kindlegen thoat-porn-luan.epub
 ```
-Sẽ tạo ra tệp `thoat-porn-luan.epub`
+Sẽ tạo ra tệp `thoat-porn-luan.epub` và `thoat-porn-luan.mobi`
 
 ### Đọc thử bản dịch trên Github
 
