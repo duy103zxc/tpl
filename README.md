@@ -1,9 +1,6 @@
 # Thoát Porn luận
 Bản dịch Tiếng Việt cho sách [The EasyPeasy to quit Pornography](https://read.easypeasymethod.org/). Bạn có thể đọc sách trực tiếp trên trang này, hoặc tải các định dạng điện tử của sách HOÀN TOÀN MIỄN PHÍ (Sách này hoàn toàn miễn phí nha).
 
-### Một số lưu ý
-Bản dịch được hoàn thiện với sự hỗ trợ của AI và đã được cải thiện 2 lần bởi mình để đảm bảo trải nghiệm của người đọc. Mọi ý kiến hay góp ý cho bản dịch vui lòng mở Issue trong dự án Github này.
-
 ### Tạo tệp EPUB & MOBI
 Bạn không cần tự tạo mà mình đã tạo sẵn rồi và bạn có thể tải trên [trang đọc sách trực tuyến của cuốn sách này](https://duy103zxc.github.io/easypeasymethod-vi/#cac-inh-dang-khac) luôn
 
@@ -20,6 +17,7 @@ python3 mark2epub.py docs/ thoat-porn-luan.epub
 # Tạo tệp .mobi
 kindlegen thoat-porn-luan.epub
 ```
+
 Sẽ tạo ra tệp `thoat-porn-luan.epub` và `thoat-porn-luan.mobi`
 
 ### Đọc thử bản dịch trên Github
@@ -57,3 +55,7 @@ Sẽ tạo ra tệp `thoat-porn-luan.epub` và `thoat-porn-luan.mobi`
 - [Chương 31: Lời khuyên cho non-user](docs/ch31.md)
 - [Chương 32: Những chỉ dẫn](docs/ch32.md)
 - [Chương 33: BÂY GIỜ](docs/ch33.md)
+
+### Một số lưu ý
+Bản dịch được hoàn thiện với sự hỗ trợ của AI và đã được cải thiện 2 lần bởi mình để đảm bảo trải nghiệm của người đọc. Mọi ý kiến hay góp ý cho bản dịch vui lòng mở Issue trong dự án Github này.
+
