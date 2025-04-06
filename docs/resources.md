@@ -1,24 +1,10 @@
 # Tài nguyên
 
-(Các tài liệu tham khảo được liệt kê bên dưới đây đều sử dụng Tiếng Anh)
+Các tài nguyên được liệt kê dưới đây đều là Tiếng Anh, nếu bạn muốn đọc thêm thì có thể mở bản gốc Tiếng Anh để tìm hiểu thêm. Dưới đây sẽ là các phần mà mình đã dịch về Tiếng Việt.
 
-[Meditations of a Porn Addict](https://easypeasymethod.org/resources/meditations.pdf) - Guillaco
-
-[EasyPeasy Statements Checklist](https://www.google.com/search?q=https://old.reddit.com/r/pmohackbook/comments/id6nie/easypeasypeasy_statements_checklist/) - SWATxKATS
-
-[Bài Thiền 9 Phút](https://www.youtube.com/watch?v=tw7XBKhZJh4) - Sam Harris
-
-[Khóa Học Thiền Waking Up](https://wakingup.com) - Sam Harris
-
-[Exiting Modernity](https://jdemeta.net/2019/09/15/exiting-modernity/) - Meta Nomad // ([pdf](https://jdemeta.net/wp-content/uploads/2019/09/Exiting-Modernity.pdf))
-
-[Lá thư Tôi gửi đến các trường học](https://easypeasymethod.org/resources/principal.pdf)
-
-[Tự Do Mãi Mãi (PMO Hacknotes)](https://sites.google.com/view/freeforever/home)
-
-[Vì sao bạn tái nghiện - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/mynwjl/why_youre_relapsing/)
-
-[Đối phó với nỗi sợ hãi - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/)
+- [Tuyên ngôn](notes/easypeasy-statements.md) - Bản dịch cho bài [EasyPeasy Statements Checklist](https://old.reddit.com/r/pmohackbook/comments/id6nie/easypeasy_statements_checklist/) - SWATxKATS
+- [Tái nghiện](notes/tai-nghien.md) - Bản dịch cho bài [Why you're relapsing - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/mynwjl/why_youre_relapsing/)
+- [Chống lại nỗi sợ](notes/chong-lai-noi-so.md) - Bản dịch cho bài [Countering Fear - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/)
 
 ## Các câu tự vấn REBT
 
@@ -37,12 +23,11 @@
 -   *"Tôi vô cùng căm ghét cảm giác lo âu và chán nản, nhưng tôi không nhất thiết phải giải tỏa những cảm xúc này ngay lập tức bằng PMO. Khi tìm đến PMO, có thể tôi sẽ tạm thời cảm thấy dễ chịu hơn đôi chút về những vấn đề của mình, nhưng thực chất chúng chẳng hề được cải thiện. Về lâu về dài, PMO chỉ khiến chúng trở nên tồi tệ hơn mà thôi.*"
 -   *"Người khác không thể khiến tôi nổi giận chỉ bằng việc đối xử tệ với tôi. Chính tôi mới là người cố chấp tự chọn cách nổi giận với sự tệ bạc của họ, bởi tôi khăng khăng đòi hỏi và ra lệnh rằng họ phải hành xử tốt hơn.*"
 
-## Kết hợp Phương Pháp EasyPeasy với Kỹ thuật Nhận Diện Giọng Nói Gây Nghiện (AVRT) của Jack Trimpey
+## Kết hợp EasyPeasy với AVRT của Jack Trimpey
 
 *Ghi nhận đóng góp từ az#8773 trên Discord*
 
-Phần này dành cho những ai đang nỗ lực áp dụng phương pháp Easyway của Allen Carr để phục hồi khỏi chứng nghiện, dù đã loại bỏ được sự "tẩy não". Tôi xin mạn phép cho rằng bất cứ ai đọc phần này đều đã đọc qua ít nhất một cuốn sách của Allen Carr và nắm rõ phương pháp Easyway (hay còn gọi là Easypeasy) của ông. Nếu chưa, tôi
-thực lòng khuyên bạn nên tìm đọc. Sẽ vô cùng hữu ích nếu bạn đọc thêm cuốn 'Rational Recovery' của Jack Trimpey. Ngay cả khi bạn chưa đọc cuốn sách đó, cũng không sao cả vì tôi sẽ đề cập đến những yếu tố cốt lõi ở đây thôi, nhưng dù vậy tôi vẫn khuyến khích bạn đọc nó vì nó sẽ đi sâu vào chi tiết hơn nhiều so với những gì tôi sẽ trình bày. Phần này sẽ không tập trung vào bất kỳ một loại nghiện cụ thể nào và do đó có thể áp dụng cho mọi loại chứng nghiện. Mục tiêu của phần này là để so sánh phương pháp Easyway với một liệu pháp cai nghiện porn hiệu quả khác mang tên 'Kỹ thuật Nhận Diện Giọng Nói Gây Nghiện' (AVRT - Addictive Voice Recognition Technique) và kết hợp cả hai phương pháp này lại với nhau. Mặc dù tôi tin tưởng sâu sắc rằng phương pháp Easyway vượt trội hơn hẳn so với tất cả những liệu pháp phục hồi nghiện khác, tôi vẫn cho rằng việc thấu hiểu thêm về AVRT có thể là mảnh ghép còn thiếu đối với rất nhiều người chưa thành công khi áp dụng Easyway, dù đã loại bỏ được "con đại quỷ".
+Phần này dành cho những ai đang nỗ lực áp dụng phương pháp Easyway của Allen Carr để phục hồi khỏi chứng nghiện, dù đã loại bỏ được sự "tẩy não". Tôi xin mạn phép cho rằng bất cứ ai đọc phần này đều đã đọc qua ít nhất một cuốn sách của Allen Carr và nắm rõ phương pháp Easyway (hay còn gọi là Easypeasy) của ông. Nếu chưa, tôi thực lòng khuyên bạn nên tìm đọc. Sẽ vô cùng hữu ích nếu bạn đọc thêm cuốn 'Rational Recovery' của Jack Trimpey. Ngay cả khi bạn chưa đọc cuốn sách đó, cũng không sao cả vì tôi sẽ đề cập đến những yếu tố cốt lõi ở đây thôi, nhưng dù vậy tôi vẫn khuyến khích bạn đọc nó vì nó sẽ đi sâu vào chi tiết hơn nhiều so với những gì tôi sẽ trình bày. Phần này sẽ không tập trung vào bất kỳ một loại nghiện cụ thể nào và do đó có thể áp dụng cho mọi loại chứng nghiện. Mục tiêu của phần này là để so sánh phương pháp Easyway với một liệu pháp cai nghiện porn hiệu quả khác mang tên 'Kỹ thuật Nhận Diện Giọng Nói Gây Nghiện' (AVRT - Addictive Voice Recognition Technique) và kết hợp cả hai phương pháp này lại với nhau. Mặc dù tôi tin tưởng sâu sắc rằng phương pháp Easyway vượt trội hơn hẳn so với tất cả những liệu pháp phục hồi nghiện khác, tôi vẫn cho rằng việc thấu hiểu thêm về AVRT có thể là mảnh ghép còn thiếu đối với rất nhiều người chưa thành công khi áp dụng Easyway, dù đã loại bỏ được "con đại quỷ".
 
 Có vô số phương pháp để vượt qua chứng nghiện, và mỗi phương pháp lại có tỷ lệ thành công khác nhau. Tôi sẽ không đi sâu vào bất kỳ phương pháp nào trong số đó bởi phần lớn chúng đều lãng phí thời gian và tôi muốn giữ cho phần này ngắn gọn nhất có thể. Các phương pháp duy nhất mà tôi sẽ đề cập đến là phương pháp Easyway của Allen Carr và AVRT của Jack Trimpey (nhà sáng lập Rational Recovery). Cả hai phương pháp này đều sở hữu tỷ lệ thành công vô cùng ấn tượng, nhưng mỗi phương pháp lại hướng đến một khía cạnh khác nhau. Điểm tương đồng giữa Easyway và AVRT nằm ở chỗ Easyway phân tách chứng nghiện thành 'con tiểu quỷ' và 'con đại quỷ', còn AVRT lại phân tách tâm trí của bạn thành 'Giọng Nói Gây Nghiện' (hay còn gọi là "con quái thú") và 'Bạn'. 'Giọng Nói Gây Nghiện' và 'con tiểu quỷ' thực chất là một, còn 'con đại quỷ' (hay còn gọi là sự "tẩy não") là hệ thống niềm tin mà bạn ôm giữ, khiến bạn lầm tưởng rằng chứng nghiện mang đến cho bạn một lợi ích hoặc một điểm tựa tinh thần nào đó. Easyway chú trọng vào việc loại bỏ 'con đại quỷ' mà ít quan tâm đến 'con tiểu quỷ', trong khi AVRT lại tập trung vào 'con tiểu quỷ' mà bỏ qua 'con đại quỷ'. Trong khi Easyway phá bỏ sự nghiện về mặt tâm lý, AVRT lại hướng dẫn bạn cách nhận diện sự nghiện về mặt thể chất đang ngụy trang thành 'Bạn' và tách rời bản thân ra khỏi nó. Tôi nhận thấy một điều thú vị là cả Easyway lẫn AVRT đều đạt được tỷ lệ thành công rất cao dù tiếp cận những khía cạnh có phần trái ngược nhau.
 
