@@ -16,11 +16,11 @@
 3.  Lý do duy nhất khiến tôi tiếp tục PMO là do nghiện
 4.  Mọi cảm giác khoái lạc hay lợi ích tôi nghĩ mình nhận được từ porn chỉ là ảo tưởng
 5.  Cảm giác trống rỗng, bất an khi cai nghiện không được giải tỏa bởi porn --- nó *bắt nguồn* từ porn
-6.  Nỗi sợ giữ chân người dùng trong cái bẫy
+6.  Nỗi sợ giữ chân người nghiện trong cái bẫy
 7.  Chỉ khi không được xem porn thì nó mới trở nên "quý giá"
 8.  Tôi PMO để giải tỏa sự khó chịu do lần xem trước gây ra
 9.  Nghiện là 1% thể chất (Con quái vật nhỏ) và 99% tinh thần (Con quái vật lớn)
-10. Cái bẫy porn khiến người dùng tin vào điều ngược lại với sự thật
+10. Cái bẫy porn khiến người nghiện tin vào điều ngược lại với sự thật
 11. Xem porn không cải thiện đời sống tình dục hay sự hứng thú với người yêu --- đó là sự *mất cảm giác* dần dần
 12. porn không khiến tôi thư giãn và tự tin --- chính cơn nghiện khiến tôi bất an và run rẩy
 13. Cách duy nhất để dừng lại vòng xoáy khổ sở là ngừng xem porn
