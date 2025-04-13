@@ -28,7 +28,7 @@ Một số "thuật ngữ" cho bản dịch đây (Bạn không cần đọc h�
 - **Fantasy:** Mộng tưởng, Ảo mộng
 - **Guru:** Guru (giữ nguyên gốc, hiểu là chuyên gia, người có kiến thức uyên bác)
 - **Jerk (jerk off):** Kẻ đần độn (nhưng "jerk off": thủ dâm, mang tính xúc phạm)
-- **Non-user:** Người không dùng (Ở đây ám chỉ những người không xem porn)
+- **Non-user:** Người không xem (Ở đây ám chỉ những người không xem porn)
 - **online harem**: Các trang web lưu porn tốc độ cao và chất lượng cao (Chất lượng thấp cũng tính luôn).
 - **PE (Premature Ejaculation):** Xuất tinh sớm
 - **PIED (Porn-Induced Erectile Dysfunction):** Rối loạn cương dương do porn gây ra
