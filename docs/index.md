@@ -1,6 +1,6 @@
 # Thoát porn luận
 
-Bản dịch Tiếng Việt cho sách [EasyPeasy](https://read.easypeasymethod.org/). Mọi góp ý về bản dịch xin vui lòng gửi vào [mục Issue của dự án này trên Github](https://github.com/duy103zxc/tpl/issues), hoặc [gửi Email cho mình](mailto:duykhanh471@protonmail.com).
+Bản dịch Tiếng Việt cho sách [EasyPeasy](https://easypeasymethod.org/). Mọi góp ý về bản dịch xin vui lòng gửi vào [mục Issue của dự án này trên Github](https://github.com/duy103zxc/tpl/issues), hoặc [gửi Email cho mình](mailto:duykhanh471@protonmail.com).
 
 ![](images/easypeasy.png)
 
@@ -26,7 +26,6 @@ Một số "thuật ngữ" cho bản dịch đây (Bạn không cần đọc h�
 - **Semen retention:** Giữ tinh dịch
 - **Sexual dysfunction:** Rối loạn chức năng tình dục
 - **Static porn:** Porn tĩnh (ảnh tĩnh)
-- **Tantric (sex):** Về mặt tantric
 - **Edging:** Cố tình kéo dài khoái cảm trước khi lên đỉnh.
 
 ### Credit

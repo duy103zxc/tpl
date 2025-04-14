@@ -1,98 +1,100 @@
-# Những tuyên ngôn của phương pháp Easypeasy
+# Danh sách châm ngôn EasyPeasy
 
-## **Hướng dẫn**
+Đây là một checklist (danh sách kiểm tra) được lấy cảm hứng từ *"your personal stop smoking plan workbook"* (dịch tạm: *“sổ tay bỏ thuốc lá cá nhân”*) trong sách Easyway. Mình thấy rất phù hợp để chuyển thể vào cuốn *PMO Hackbook* này. Nếu bạn cảm thấy không đồng tình với một vài câu trong đây, có thể trong đầu bạn vẫn còn sót lại một chút *sự tẩy não*.
 
-1.  **HƯỚNG DẪN ĐẦU TIÊN**: LÀM THEO TẤT CẢ CÁC HƯỚNG DẪN
-2.  **HƯỚNG DẪN THỨ HAI**: GIỮ MỘT TÂM TRÍ CỞI MỞ
-3.  **HƯỚNG DẪN THỨ BA**: BẮT ĐẦU VỚI CẢM GIÁC HÀO HỨNG VÀ PHẤN KHÍCH
-4.  **HƯỚNG DẪN THỨ TƯ**: KHÔNG BAO GIỜ NGHI NGỜ QUYẾT ĐỊNH CAI NGHIỆN
-5.  **HƯỚNG DẪN THỨ NĂM**: PHỚT LỜ MỌI LỜI KHUYÊN MÂU THUẪN VỚI PHƯƠNG PHÁP EASYPEASYWAY
-6.  **HƯỚNG DẪN THỨ SÁU**: ĐỪNG CỐ GẮNG *KHÔNG* NGHĨ VỀ PORN (PHIM KHIÊU DÂM)
+### **Hướng dẫn**
 
-## **Danh sách kiểm tra**
+1. **ĐIỀU ĐẦU TIÊN:** LÀM THEO TẤT CẢ CÁC HƯỚNG DẪN.
+2. **ĐIỀU THỨ HAI:** GIỮ TÂM TRÍ CỞI MỞ.
+3. **ĐIỀU THỨ BA:** BẮT ĐẦU HÀNH TRÌNH VỚI CẢM GIÁC HÁO HỨC, HÂN HOAN.
+4. **ĐIỀU THỨ TƯ:** ĐỪNG BAO GIỜ NGHI NGỜ QUYẾT ĐỊNH DỪNG XEM PORN.
+5. **ĐIỀU THỨ NĂM:** BỎ QUA MỌI LỜI KHUYÊN TRÁI VỚI PHƯƠNG PHÁP EASYPEASYWAY.
+6. **ĐIỀU THỨ SÁU:** ĐỪNG CỐ ÉP BẢN THÂN “ĐỪNG NGHĨ ĐẾN PORN”
 
-1.  Có rất nhiều lý do chính đáng để ngừng xem porn
-2.  Không có lý do nào chính đáng để tiếp tục xem porn
-3.  Lý do duy nhất khiến tôi tiếp tục PMO là do nghiện
-4.  Mọi cảm giác khoái lạc hay lợi ích tôi nghĩ mình nhận được từ porn chỉ là ảo tưởng
-5.  Cảm giác trống rỗng, bất an khi cai nghiện không được giải tỏa bởi porn --- nó *bắt nguồn* từ porn
-6.  Nỗi sợ giữ chân người nghiện trong cái bẫy
-7.  Chỉ khi không được xem porn thì nó mới trở nên "quý giá"
-8.  Tôi PMO để giải tỏa sự khó chịu do lần xem trước gây ra
-9.  Nghiện là 1% thể chất (Con quái vật nhỏ) và 99% tinh thần (Con quái vật lớn)
-10. Cái bẫy porn khiến người nghiện tin vào điều ngược lại với sự thật
-11. Xem porn không cải thiện đời sống tình dục hay sự hứng thú với người yêu --- đó là sự *mất cảm giác* dần dần
-12. porn không khiến tôi thư giãn và tự tin --- chính cơn nghiện khiến tôi bất an và run rẩy
-13. Cách duy nhất để dừng lại vòng xoáy khổ sở là ngừng xem porn
-14. Không bao giờ là quá muộn để thoát khỏi nó
-15. Việc thoát ra rất dễ dàng
-16. Tôi phải tiêu diệt Con quái vật lớn --- kẻ khiến tôi nghĩ rằng porn đem lại khoái lạc hoặc là một chỗ dựa
-17. Khác biệt duy nhất giữa người nghiện và người không nghiện là người không nghiện không chịu đựng cảm giác khó chịu do cai nghiện
-18. Xem porn hoàn toàn không đem lại điều gì cho tôi
-19. Nỗi sợ thất bại chứng tỏ tôi ghét việc sống như một kẻ nghiện cả đời
-20. Nỗi sợ thành công biến mất khi tôi gỡ bỏ lớp tẩy não và nhìn thấy sự thật
-21. Việc "thích" cực khoái chỉ là ảo giác do cảm giác thỏa mãn khi cơn thèm được giải tỏa
-22. Những buổi xem "đặc biệt" dường như quý giá vì diễn ra sau một thời gian nhịn và trùng với dịp vui vẻ vốn dĩ
-23. porn không giúp tôi giảm căng thẳng --- nó là nguyên nhân chính gây ra căng thẳng
-24. Khuynh hướng luôn là PMO nhiều hơn, không phải ít đi
-25. Cách duy nhất để loại bỏ ham muốn PMO là *dừng hẳn*
-26. Xem porn không phải là thói quen --- nó là một cơn nghiện
-27. Người nghiện porn không phải yếu đuối --- ngược lại, cần rất nhiều ý chí để tiếp tục nghiện dù có bao nhiêu lý do để bỏ
-28. Ý chí không thể khiến tôi trở thành người cai nghiện hạnh phúc
+### Checklist
+
+1. Có rất nhiều lý do chính đáng để dừng xem porn.
+2. Không có lý do nào thực sự hợp lý để tiếp tục xem porn.
+3. Lý do duy nhất mình còn PMO là vì nghiện porn.
+4. Mọi cảm giác “khoái lạc” từ porn chỉ là ảo giác.
+5. Cảm giác trống rỗng, bất an không phải do thiếu porn mà chính porn gây ra.
+6. Nỗi sợ giữ người nghiện kẹt lại trong cái bẫy porn.
+7. Chỉ khi không được xem, mình mới thấy porn “quý giá”.
+8. Mình PMO để tạm thời làm dịu cơn khó chịu mà lần xem trước đã gây ra.
+9. Nghiện porn chỉ 1% là về mặt cơ thể (con tiểu quỷ), còn lại 99% là về mặt tâm lý (con đại quỷ).
+10. Cái bẫy porn khiến mình tin cái ngược lại của sự thật.
+11. Porn không giúp cải thiện đời sống tình dục mà ngược lại.
+12. Porn không làm mình tự tin – chính nó làm mình yếu đuối, run rẩy.
+13. Cách duy nhất thoát khỏi vòng lặp khổ sở là dừng xem porn lại hoàn toàn.
+14. Không bao giờ là quá muộn để dừng xem porn lại.
+15. Thoát ra khỏi cơn nghiện porn thực ra rất dễ.
+16. Phải tiêu diệt con đại quỷ – thứ khiến mình lầm tưởng porn là chỗ dựa hay thú vui.
+17. Người không nghiện không bao giờ phải chịu đựng cảm giác thiếu thốn khi không được xem porn như người nghiện.
+18. Porn không mang lại gì cho mình cả.
+19. Nỗi sợ thất bại chứng tỏ mình không muốn sống cả đời trong nghiện ngập.
+20. Khi tháo gỡ lớp tẩy não, nỗi sợ “thành công” cũng biến mất.
+21. Cảm giác “thích cực khoái” thực chất là sự giải thoát khỏi triệu chứng cai nghiện.
+22. Những “lần đặc biệt” chỉ "đáng quý" khi chúng đến sau thời gian kiêng porn.
+23. Porn không giúp mình giảm stress – nó là một trong những nguyên nhân chính gây ra stress.
+24. Bản năng là luôn muốn xem nhiều hơn, không phải ít đi. Càng cố giới hạn, càng cảm thấy vật vã thèm thuồng.
+25. Cách duy nhất để hết ham muốn là bỏ hẳn.
+26. Porn không phải thói quen – mà là NGHIỆN.
+27. Người nghiện porn không phải yếu đuối - ngược lại, cần rất nhiều ý chí để tiếp tục nghiện dù có hàng tá lý do để bỏ.
+28. Ý chí không giúp mình trở thành người tự do thật sự.
 29. Bạn chỉ cần ý chí khi có sự xung đột bên trong
-30. Nếu không hiểu rõ ảo tưởng về khoái lạc, thì lần kế tiếp --- lần bạn *không thể* xem --- sẽ luôn có vẻ đặc biệt
-31. Phương pháp dùng ý chí khiến bạn cứ chờ đợi một điều gì đó *không xảy ra*, và cứ tự hỏi liệu mình đã thành công chưa
-32. Tôi không "từ bỏ" điều gì cả
-33. Tôi đang loại bỏ một căn bệnh
-34. Dùng ý chí thì không bao giờ thoát được cái bẫy
-35. Tôi sẽ cảnh giác với những người cai nghiện bằng ý chí
-36. Tôi có tất cả để đạt được và chẳng mất gì nếu dừng lại
-37. Mọi người nghiện porn đều giống nhau
-38. Tôi trở thành người nghiện vì tôi sử dụng một chất gây nghiện --- không phải vì tính cách hay di truyền
-39. Bất kỳ ai cũng có thể thoát khỏi nghiện porn. Tôi chỉ cần *ngừng sử dụng nó*
-40. Nhiều yếu tố ảnh hưởng đến mức độ nghiện của bạn --- nhưng *tính cách không phải một trong số đó*
-41. Niềm tin rằng tình dục và cực khoái là mục tiêu tối thượng của con người là huyền thoại do phim ảnh và truyền thông tạo ra
-42. porn phá huỷ khả năng tập trung bằng cách khiến tôi nghĩ "Tôi muốn xem porn"
-43. porn tạo ra sự chán nản, chứ không phải giải tỏa nó
-44. Nếu tôi tin sai rằng không có porn thì tôi không thể tập trung --- tôi sẽ khiến điều đó thành hiện thực
-45. porn không có tính giáo dục --- không có "tốt nghiệp" nào cho người học porn
-46. Ai tiếp tục lan truyền ảo tưởng rằng porn mang lại lợi ích hoặc là chỗ dựa đều đã hiểu sai
-47. Người nghiện không có tự do --- họ không *chọn* thủ dâm, mà là *mất kiểm soát*
-48. Không ai thật sự *thích* xem porn --- họ chỉ nghĩ vậy vì họ là người nghiện và khổ sở khi không được xem
-49. porn không giải quyết khủng hoảng --- nó khiến mọi thứ *tệ hơn rất nhiều*
-50. Những người nghiện khác muốn tôi xem để họ thấy dễ chịu --- không phải vì tôi
-51. Chọn tiếp tục nghiện porn cũng giống như đi giày quá chật chỉ để tận hưởng cảm giác cởi nó ra
-52. porn là kẻ giết chết ham muốn tình dục mạnh mẽ. Những "thay thế" cũng không an toàn
-53. Việc thay thế porn không bao giờ xoá bỏ được ham muốn
-54. Việc thay thế khiến ta tiếp tục nghĩ rằng mình đang "hy sinh" khi ngừng xem phim
-55. Không bao giờ dùng "thay thế"
-56. porn tạo ra cảm giác thèm khát dai dẳng như đói ăn
-57. Tập thể dục khiến tôi cảm thấy khoẻ mạnh cả về thể chất lẫn tinh thần
-58. porn làm giảm khả năng tập thể dục và khả năng tình dục
-59. Chỉ một lần "xem lại" là đủ để nghiện trở lại
-60. Mọi người nghiện porn đều mắc kẹt trong cùng một cái bẫy. Cách duy nhất để thoát là *ngừng hoàn toàn*
-61. Việc "giảm bớt" tạo cảm giác bị tước đoạt và khiến video tiếp theo càng có vẻ quý giá
-62. Những người "xem thoáng qua" chỉ được ganh tỵ vì số lần họ *không* xem
-63. Người "dừng rồi lại bắt đầu" phải chịu khổ cả hai bên
-64. Tôi cai nghiện vì hạnh phúc của chính mình, không vì ai khác
-65. Với phương pháp Easypeasyway, tôi sẽ kết thúc lần cuối cùng với sự chắc chắn tuyệt đối rằng mình sẽ không bao giờ PMO nữa
-66. Tôi sẽ trở thành một người tự do và hạnh phúc ngay khi kết thúc lần cuối cùng đó
-67. Ai cũng có thể thoát khỏi nghiện, miễn là họ gỡ bỏ mọi nghi ngờ về quyết định của mình
-68. Tránh khổ đau không giống như đạt được hạnh phúc
-69. Loại bỏ porn khỏi cuộc sống *không* tạo ra khoảng trống nào
-70. Nếu tôi vẫn tin rằng porn mang lại lợi ích, tôi sẽ dễ bị tổn thương bởi nỗi sợ thành công
-71. Nỗi sợ cai nghiện là vô lý --- nó *được tạo ra* bởi việc bắt đầu xem porn
-72. Tôi có quyền lựa chọn
-73. Tôi không cần phải trải qua bất kỳ giai đoạn chuyển tiếp nào
-74. porn không phải bạn tôi --- và chưa bao giờ là bạn tôi. Nó là kẻ thù tồi tệ nhất
-75. Việc cai nghiện sẽ giúp tôi lấy lại quyền kiểm soát cuộc sống
-76. Nỗi sợ cai nghiện bắt nguồn từ chính porn
-77. Tôi sẽ không nhớ porn
-78. Tôi sẽ tận hưởng cuộc sống hơn
-79. Tôi sẽ đối mặt với căng thẳng tốt hơn
-80. Tôi không cần phải trải qua một chấn thương kinh hoàng để thoát khỏi nghiện
-81. Không có đau đớn thể xác nào cả
-82. Cơn hoảng loạn khi cai nghiện chính là nỗi sợ mất "liều thuốc"
-83. Tiêu diệt Con quái vật nhỏ --- cơn nghiện sẽ chết
-84. Tiêu diệt Con quái vật lớn --- tôi sẽ loại bỏ nỗi sợ
-85. Không có điều gì tồi tệ xảy ra khi tôi ngừng xem porn
+30. Nếu chưa hiểu rõ ảo giác về khoái lạc, mình sẽ luôn thấy “lần tới” là điều gì đó “rất đặc biệt”.
+31. Phương pháp dùng ý chí khiến bạn cứ chờ đợi một điều gì đó không xảy ra, và cứ tự hỏi liệu mình đã thành công chưa
+32. Mình không “từ bỏ” gì cả.
+33. Mình đang rũ bỏ một căn bệnh.
+34. Dùng ý chí thì không bao giờ thật sự thoát khỏi cái bẫy.
+35. Phải cảnh giác với những người bỏ được bằng ý chí – họ thường không hạnh phúc.
+36. Mình có tất cả để đạt được và chẳng mất gì nếu dừng lại
+37. Tất cả người nghiện đều giống nhau – mắc kẹt trong cùng một cái bẫy.
+38. Mình nghiện vì dùng phải một thứ gây nghiện, không phải do tính cách hay gen di truyền.
+39. Ai cũng có thể thoát nghiện porn. Chỉ cần ngừng xem porn.
+40. Nhiều yếu tố ảnh hưởng đến mức độ nghiện của bạn - nhưng tính cách không phải một trong số đó
+41. Niềm tin rằng tình dục và cực khoái là mục tiêu tối thượng của con người là huyền thoại do phim ảnh và truyền thông tạo ra.
+42. Porn làm mình mất tập trung, vì não cứ nghĩ tới việc xem tiếp.
+43. Porn gây ra sự chán nản – chứ không giải tỏa được nó.
+44. Nếu mình tin rằng không có porn sẽ không tập trung được, thì sự thật sẽ là như vậy.
+45. Porn không hề mang tính giáo dục – không có “bằng tốt nghiệp” nào ở đây cả.
+46. Ai tin rằng porn mang lại “khoái lạc” hay là “chỗ dựa” – đều đang bị ảo tưởng dẫn dắt.
+47. Người nghiện không tự do – họ không chọn thủ dâm, mà là bị cưỡng ép bởi cơn nghiện.
+48. Không ai thật sự thích xem porn - họ chỉ nghĩ vậy vì họ là người nghiện và khổ sở khi không được xem
+49. Porn không giúp mình vượt qua khủng hoảng – nó khiến mọi thứ tệ hơn gấp bội.
+50. Người nghiện khác muốn bạn xem để họ đỡ cảm thấy tội lỗi – không phải vì bạn.
+51. Chọn nghiện porn giống như chọn đi giày chật chỉ để cảm thấy thoải mái khi cởi ra.
+52. Porn là kẻ giết chết ham muốn thật sự. “Porn thay thế” cũng chẳng khá hơn.
+53. Dùng “hàng thay thế” sẽ chẳng bao giờ loại bỏ được cơn thèm.
+54. Chúng khiến mình nghĩ rằng mình đang “hi sinh” khi bỏ porn – điều đó không đúng.
+55. Không bao giờ dùng “hàng thay thế”.
+56. Porn tạo ra cảm giác thèm khát dai dẳng như đói ăn
+57. Tập thể dục khiến mình khỏe mạnh cả về thể chất lẫn tinh thần.
+58. Porn khiến mình yếu đi – cả khả năng tình dục lẫn thể lực.
+59. Chỉ một lần "xem lại" là đủ để nghiện trở lại.
+60. Mọi người nghiện đều bị kẹt trong cùng một cái bẫy – cách duy nhất là dừng xem hẳn.
+61. “Cắt giảm” chỉ khiến cảm giác thiếu thốn mạnh hơn và làm lần xem porn tiếp theo trở nên “quý hơn”.
+62. Những người dùng porn *thường* chỉ được ghen tị vì họ xem ít.
+63. Vừa bỏ vừa quay lại – dằn vặt gấp đôi (? Không hiểu lắm).
+64. Mình dừng xem porn lại vì hạnh phúc của bản thân – không phải vì ai khác.
+65. Với phương pháp Easypeasy, chuyến thăm cuối cùng sẽ là lần dứt điểm, không bao giờ xem porn nữa.
+66. Ngay khoảnh khắc kết thúc, mình sẽ trở thành một người không PMO hạnh phúc.
+67. Ai cũng có thể đừng xem porn – chỉ cần gạt bỏ mọi nghi ngờ về quyết định của mình.
+68. Tránh khổ chưa phải là hạnh phúc – phải bước ra khỏi bẫy mới thật sự tự do.
+69. Dừng xem porn không khiến cuộc sống trống trải – ngược lại, nó đủ đầy hơn.
+70. Nếu mình còn tin porn có “lợi ích” gì đó, mình sẽ sợ *thành công*.
+71. Nỗi sợ dừng xem porn là vô lý – chính việc bắt đầu xem mới tạo ra nỗi sợ ấy.
+72. Mình luôn có quyền lựa chọn.
+73. I do not need to go through any transitional period (?)
+74. Porn chưa từng là bạn, mà là kẻ thù tệ nhất.
+75. Dừng xem porn và lấy lại quyền kiểm soát cuộc đời.
+76. Nỗi sợ dừng lại – do porn tạo ra.
+77. Mình sẽ không thấy nhớ porn đâu.
+78. Mình sẽ tận hưởng cuộc sống hơn.
+79. Mình sẽ xử lý stress tốt hơn.
+80. Không cần chịu đựng tổn thương (trauma) để dừng xem porn lại.
+81. Không có nỗi đau về mặt thể chất nào khi dừng xem porn cả.
+82. Cái hoảng loạn khi “cai” chỉ là nỗi sợ thiếu *liều*.
+83. Tiêu diệt con tiểu quỷ – hết nghiện.
+84. Tiêu diệt con đại quỷ – hết sợ.
+85. Không có gì tệ xảy ra nếu mình dừng xem porn cả.

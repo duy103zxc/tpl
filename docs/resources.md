@@ -4,7 +4,7 @@ Các tài nguyên được liệt kê trong phần này đều là Tiếng Anh, 
 
 - [Tuyên ngôn](notes/easypeasy-statements.md) - Bản dịch cho bài [EasyPeasy Statements Checklist](https://old.reddit.com/r/pmohackbook/comments/id6nie/easypeasy_statements_checklist/) - SWATxKATS
 - [Tái nghiện](notes/tai-nghien.md) - Bản dịch cho bài [Why you're relapsing - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/mynwjl/why_youre_relapsing/)
-- [Chống lại nỗi sợ](notes/chong-lai-noi-so.md) - Bản dịch cho bài [Countering Fear - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/)
+- [Đối phó với nỗi sợ](notes/doi-pho-voi-noi-so.md) - Bản dịch cho bài [Countering Fear - u/Different_Guide_5205](https://old.reddit.com/r/pmohackbook/comments/n5027n/countering_fear/)
 
 ## Những câu nhắc nhở tinh thần (REBT)
 
