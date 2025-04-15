@@ -40,6 +40,10 @@ nav:
   - 'ch32.md'
   - 'ch33.md'
   - 'resources.md'
+  - 'Phụ chương':
+    - notes/doi-pho-voi-noi-so.md
+    - notes/easypeasy-statements.md
+    - notes/tai-nghien.md
 
 
 theme:
@@ -72,21 +76,5 @@ plugins:
   - search
   - open-in-new-tab
 
-markdown_extensions:
-  - meta
-  - admonition
-  - attr_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.details
-  - pymdownx.keys
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - toc:
-      permalink: true
-      
 extra:
   generator: false
