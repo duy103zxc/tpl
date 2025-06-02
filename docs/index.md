@@ -14,15 +14,13 @@ Một số "thuật ngữ" cho bản dịch đây (Bạn không cần đọc h�
 - **Triệu chứng cai nghiện:** Dịch theo đúng tên gốc là "withdrawal symptoms". Trong ngữ cảnh của tác phẩm nó nên được hiểu đúng hơn là "Triệu chứng dừng xem porn" vì việc "dừng xem porn" ở đây khác với việc cai nghiện (Theo cách hiểu của mình, bạn nên đọc thêm tác phẩm để tìm hiểu thêm).
 - **Cơn đau cai nghiện:** Dịch theo đúng tên gốc là "withdrawal pangs". Là cảm giác khó chịu khi bạn dừng xem porn.
 - **Porn "diet":** Chế độ "kiêng" porn (Kiểu vài ngày xem porn một lần)
-- **Guru:** Bậc thầy
 - **Jerk (jerk off):** Kẻ đần độn (nhưng "jerk off": thủ dâm, mang tính xúc phạm)
 - **Non-user:** Người không xem (Ở đây ám chỉ những người không xem porn)
 - **online harem**: Các trang web lưu porn tốc độ cao và chất lượng cao (Chất lượng thấp cũng tính luôn). Trong bản dịch thì mình sẽ dùng từ "hậu cung ảo".
 - **PE (Premature Ejaculation):** Xuất tinh sớm
 - **PIED (Porn-Induced Erectile Dysfunction):** Rối loạn cương dương do porn gây ra
 - **Dopamine withdrawal:** Sự rút lui dopamine, là hiện tượng xảy ra khi não bộ giảm sản xuất hoặc giảm phản ứng với dopamine, một chất dẫn truyền thần kinh liên quan đến cảm giác khoái lạc và động lực.
-- **Propagative (sex):** (Tình dục) về mặt sinh sản
-- **Search-and-seek dopamine:** Dopamine "tìm kiếm-và-theo đuổi"
+- **Propagative (sex):** (Tình dục) về mặt sinh sản, ở đây ám chỉ việc tìm kiếm tình dục chỉ đơn giản để "đạt cực khoái" và "lên đỉnh".
 - **Semen retention:** Giữ tinh dịch
 - **Sexual dysfunction:** Rối loạn chức năng tình dục
 - **Static porn:** Porn tĩnh (ảnh tĩnh)
@@ -32,7 +30,7 @@ Một số "thuật ngữ" cho bản dịch đây (Bạn không cần đọc h�
 
 Dưới đây là phần trích từ chương đầu của cuốn sách:
 
-Tại sao lại là Hackbook? Allen Carr đã qua đời từ lâu và tổ chức của ông không hề hỗ trợ điều trị cho hội chứng nghiện porn. 
+Tại sao lại viết cuốn Hackbook này? Allen Carr đã qua đời từ lâu và tổ chức của ông không hề hỗ trợ điều trị cho hội chứng nghiện porn. 
 
 Trong suốt cuốn sách này, bản thân tôi, Hackauthor và Allen Carr sẽ ở đây để cung cấp cho bạn một phương pháp độc đáo và hấp dẫn để loại bỏ cơn nghiện một cách dễ dàng và không đau đớn.
 

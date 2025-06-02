@@ -13,7 +13,6 @@ These irrational beliefs spawn irrational consequences when acted upon, includin
 - Being excessively judgmental and critical of prospective partners.
 - Forcing yourself to have sex whether you want it or not.
 
-
 ## Chương 2
 Không có
 
