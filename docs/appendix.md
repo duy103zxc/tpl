@@ -1,4 +1,6 @@
-# Thoát porn luận
+# Thông tin thêm
+
+![](images/easypeasy.png)
 
 Bản dịch Tiếng Việt cho sách [EasyPeasy](https://easypeasymethod.org/). Mọi góp ý về bản dịch xin vui lòng gửi vào [mục Issue của dự án này trên Github](https://github.com/duy103zxc/tpl/issues), hoặc [gửi Email cho mình](mailto:duykhanh471@protonmail.com).
 

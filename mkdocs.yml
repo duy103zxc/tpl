@@ -6,7 +6,6 @@ repo_url: https://github.com/duy103zxc/easypeasymethod-vi
 
 nav:
   - 'index.md'
-  - 'ch01.md'
   - 'ch02.md'
   - 'ch03.md'
   - 'ch04.md'
@@ -40,6 +39,7 @@ nav:
   - 'ch32.md'
   - 'ch33.md'
   - 'resources.md'
+  - 'appendix.md'
   - 'Phụ chương':
     - notes/doi-pho-voi-noi-so.md
     - notes/easypeasy-statements.md
