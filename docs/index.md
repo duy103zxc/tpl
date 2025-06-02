@@ -1,5 +1,8 @@
 # Chương 1: Giới thiệu
 
+!!! info "Tải tệp EPUB của sách"
+	[Bấm vào đường dẫn này để tải phiên bản ebook (định dạng EPUB) của sách](https://github.com/thu-tram/tpl/releases)
+	
 <span style="font-size:xx-large;">KHÔNG BỎ QUA CHƯƠNG</span>
 
 Cuốn sách mã nguồn mở này sẽ giúp bạn dừng việc xem porn lại ngay lập tức, lâu dài mà không sử dụng đến ý chí hay có bất kì cảm giác thiếu thốn hay hi sinh nào. Không môt lời phán xét, dè bỉu hay áp lực phải trải qua những biện pháp hành xác nào cả.
